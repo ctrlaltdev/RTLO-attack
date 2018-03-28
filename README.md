@@ -7,3 +7,4 @@ In this example I disguise my .sh file as a .jpg file.
 
 Of course, this example is harmless - and .sh won't launch from a file explorer in most
 cases - but you get how it could be used...
+
