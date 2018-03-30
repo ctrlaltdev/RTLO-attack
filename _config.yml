@@ -2,7 +2,7 @@ remote_theme: ctrlaltdev/ctrlaltdev-theme
 theme_settings:
   title: "RLO Attack"
   description: "Python script and example file to test the Right-To-Left Override attack"
-  
+github: "ctrlaltdev/RLO-attack"
 sass:
   sass_dir: _sass
-style: :compressed
+  style: :compressed
