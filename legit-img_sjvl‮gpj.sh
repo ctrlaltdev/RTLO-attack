@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-echo "ALL YOUR BASE BELONG TO US"
+echo "ALL YOUR BASE ARE BELONG TO US"
