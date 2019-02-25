@@ -1,4 +1,4 @@
-[![licence](https://img.shields.io/github/license/ctrlaltdev/RLO-attack.svg?style=for-the-badge)](https://github.com/ctrlaltdev/RLO-attack/blob/master/LICENCE.md)
+[![licence](https://img.shields.io/github/license/ctrlaltdev/RTLO-attack.svg?style=for-the-badge)](https://github.com/ctrlaltdev/RTLO-attack/blob/master/LICENSE)
 ![Python](https://img.shields.io/badge/_-Python-4B8BBE.svg?style=for-the-badge)
 
 This is a really simple example on how to create a file with a unicode right to left ove
